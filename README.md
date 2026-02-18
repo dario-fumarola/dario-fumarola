@@ -1,17 +1,11 @@
-## Hi there, I'm **Dario** 👋
+# Hi, I’m Dario 👋
 
+🇮🇹 From Italy, based in NYC.  
 
-## I'm an aspiring **Machine Learning Engineer** from Italy, currently based in the US.
+I’m a **Prototyping Architect at AWS**, building customer-facing AI systems on AWS that run reliably at scale.
 
-- 🏢 Senior '23 at **Washington and Lee University**, majoring in Computer Science and Mathematics
-- 🌍 Previously interned as a **Solutions Architect** at **Amazon Web Services**
-- 🌱 Learning all about **C++**, **Convolutional Neural Networks**, and **Markov Chains**
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to swim and play the ukulele
-- 📫 Reach me: dariofumarola@mail.com
+**Research:** reinforcement learning, representation learning, and geometric/graph structure in neural systems - with a focus on adaptive control, multi-agent settings, stability, and long-tail performance.
 
-<br />
+🎓 Computer Science & Mathematics, **Washington and Lee University**
 
-
----
-
+**Open to research collaborations** — reach me at **dariofumarola90@gmail.com**.
