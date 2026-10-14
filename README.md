@@ -5,7 +5,7 @@
 
 I'm from Italy and based in New York. I work with customers to build and deploy AI systems at AWS, including agents, evaluation tools and inference pipelines.
 
-At Amazon Science, I study reinforcement learning for LLM and embodied agents, adaptive inference, reasoning and model training. I also co-lead a Build on Trainium project on safe, social pretraining of LLM agents.
+At Amazon Science, I study reinforcement learning for LLM and embodied agents, adaptive inference, reasoning and model training.
 
 ## Selected work
 
@@ -16,8 +16,7 @@ At Amazon Science, I study reinforcement learning for LLM and embodied agents, a
 - [**Broadcast-Gain**](https://dariofumarola.com/projects/broadcast-gain.html) · NY-RL 2025<br>
   Junction control with sparse reports and an unconditional service deadline.
 
-Bachelor's degree in Computer Science and Mathematics, Washington and Lee University.<br>
-Davis UWC Scholar.
+Bachelor's degree in Computer Science and Mathematics, Washington and Lee University.
 
 I'm open to research collaborations. Get in touch at [hello@dariofumarola.com](mailto:hello@dariofumarola.com).
 
